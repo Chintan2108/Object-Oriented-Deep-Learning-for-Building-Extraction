@@ -1,0 +1,7 @@
+# checkpoints
+Pretrained/TernausnetV2/.ipynb_checkpoints/
+
+# pycache
+Pretrained/TernausnetV2/models/__pycache__/
+
+Pretrained/TernausnetV2/modules/__pycache__/
