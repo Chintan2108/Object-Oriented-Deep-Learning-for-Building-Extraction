@@ -5,3 +5,8 @@ Pretrained/TernausnetV2/.ipynb_checkpoints/
 Pretrained/TernausnetV2/models/__pycache__/
 
 Pretrained/TernausnetV2/modules/__pycache__/
+
+# model weights
+*.pt
+*.h5
+*.yml
