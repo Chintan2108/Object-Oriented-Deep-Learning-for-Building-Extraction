@@ -10,3 +10,9 @@ Pretrained/TernausnetV2/modules/__pycache__/
 *.pt
 *.h5
 *.yml
+
+# virtual environment
+env/
+
+# data
+Pretrained/Dynamic UNet/data/
