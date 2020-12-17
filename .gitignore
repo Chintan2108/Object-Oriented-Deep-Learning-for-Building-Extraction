@@ -11,6 +11,7 @@ Pretrained/TernausnetV2/modules/__pycache__/
 *.pt
 *.h5
 *.yml
+*.pkl
 
 # virtual environment
 env/
