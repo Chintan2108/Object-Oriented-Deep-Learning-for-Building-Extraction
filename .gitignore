@@ -1,6 +1,10 @@
 # checkpoints
 Pretrained/TernausnetV2/.ipynb_checkpoints/
 Pretrained/Dyanamic UNet/.ipynb_checkpoints/
+UNet with Cyclical Learning/.ipynb_checkpoints/
+
+# notebook assets
+UNet with Cyclical Learning/assets/
 
 # pycache
 Pretrained/TernausnetV2/models/__pycache__/
