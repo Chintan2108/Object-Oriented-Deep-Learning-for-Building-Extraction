@@ -16,6 +16,9 @@ Pretrained/TernausnetV2/modules/__pycache__/
 *.h5
 *.yml
 *.pkl
+UNet with Cyclical Learning/model states/
+UNet with Cyclical Learning/model weights/
+
 
 # virtual environment
 env/
